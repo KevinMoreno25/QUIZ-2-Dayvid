@@ -8,3 +8,7 @@ Unidad que mide la velocidad del procesador Memoria rápida que guarda datos de 
 
 3. 🤷‍♂️**Software de pago**
 es cualquier programa informático para el cual se debe pagar un precio para su uso, ya sea a través de una licencia de compra única, una suscripción o un modelo de pago por uso. Estos programas, a diferencia del software libre, tienen un acceso restringido a su código fuente y su distribución es controlada por el propietario o desarrollador.
+
+4.✌️**Revisión de código**
+es un proceso de desarrollo de software donde los desarrolladores examinan el código para detectar errores, asegurar la calidad, la consistencia y la seguridad antes de integrarlo en la base de código principal
+
