@@ -8,3 +8,4 @@ Unidad que mide la velocidad del procesador Memoria rápida que guarda datos de 
 
 3. 🤷‍♂️**Software de pago**
 es cualquier programa informático para el cual se debe pagar un precio para su uso, ya sea a través de una licencia de compra única, una suscripción o un modelo de pago por uso. Estos programas, a diferencia del software libre, tienen un acceso restringido a su código fuente y su distribución es controlada por el propietario o desarrollador.
+4. 😅 **Plug & play**: Significa "enchufar y usar". Reconocimiento inmediato de un dispositivo por parte de la computadora, sin necesidad de instrucciones del usuario.
